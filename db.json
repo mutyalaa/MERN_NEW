@@ -1,0 +1,22 @@
+{
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "City Hospital",
+      "location": "Hyderabad",
+      "capacity": 250
+    },
+    {
+      "id": 2,
+      "name": "Green Valley Hospital",
+      "location": "SR Nagar",
+      "capacity": 150
+    },
+    {
+      "id": 3,
+      "name": "Riverdale Hospital",
+      "location": "KPHB",
+      "capacity": 300
+    }
+  ]
+}
